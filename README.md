@@ -1,21 +1,15 @@
-# Data Science and Machine Learning Coursework
+# Coursework Foundations
 
-Coursework and applied projects from my M.S. in AI and Machine Learning at CSU Global (completed 2026), with data work tied to my marketing analytics background. The collection covers introductory data science, classification, and visualization, alongside related course documents.
+Graduate and certificate coursework from my M.S. in AI and Machine Learning at CSU Global and IBM data science training, organized by topic.
 
-## Featured work
+## Contents
 
-- `nb_classifier.py` — A Naive Bayes classifier, built with scikit-learn, that categorizes camping furniture features into product types, using frequency and likelihood tables with Laplace smoothing.
-- `FarrellModel.py` — A small Python program that displays a modified waterfall process model as a text flowchart for a named project and its key elements.
-- `DataScienceEcosystem.ipynb` — A notebook summarizing data science tools and ecosystem, including common languages, libraries, and tools.
-- `store tableau.twbx` — A Tableau workbook for exploring store data visually.
+- **spacex-capstone**: IBM Data Science capstone on SpaceX Falcon 9 first-stage landings: final report and presentation deck.
+- **papers**: Graduate papers, including the CSC502 ethics series, CSC510 work on A* search, classification for retail catalogs, first-order logic, a media tagging system proposal, and a CNN transfer learning milestone, plus a CSC505 mobile app prototype.
+- **marketing**: DTC digital marketing project management plan.
+- **notebooks**: Introductory data science notebooks, including the data science ecosystem overview and Kauai word clouds.
+- **python-exercises**: Early Python coursework: a Naive Bayes classifier, small apps, and OOP exercises.
+- **data, images, tableau**: Supporting datasets, generated images, and a Tableau workbook.
+- **coursework-archives**: Original course submission archives, kept as submitted.
 
-## Tools
-
-- Python
-- Jupyter Notebook
-- scikit-learn
-- Tableau
-
-## What else is here
-
-The repository also includes CSC502 and CSC510 coursework documents, `Final Assignment.ipynb`, `kauaiwordcloud.ipynb`, `camping_furniture.csv`, `SpaceX Project.pdf`, and a Digital Marketing Project Management Plan document.
+Applied project sequences (the full SpaceX machine learning pipeline, Tox21, computer vision) live in [applied-ml-projects](https://github.com/freezy39/applied-ml-projects).
